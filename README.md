@@ -1,4 +1,4 @@
-# Search_Engine_project
+# Search Engine project
 
 Le but du projet est de parvenir à créer un moteur de recherche à partir d’une base de données de documents.
 
